@@ -1,1 +1,2 @@
 Test for the first repository practice exercise
+"Updating with Bash…"
